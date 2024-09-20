@@ -9,7 +9,6 @@ require_once '/var/www/html/wp-load.php';
 $settings = get_option('acg_settings');
 error_log('Current settings: ' . print_r($settings, true));
 
-// Function to fetch user-defined frequency from WordPress
 function get_user_frequency() {
     $settings = get_option('acg_settings');
     return isset($settings['acg_schedule_frequency']) ? $settings['acg_schedule_frequency'] : 'daily';
