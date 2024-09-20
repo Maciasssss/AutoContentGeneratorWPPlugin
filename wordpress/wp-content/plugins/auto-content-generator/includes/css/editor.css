@@ -1,0 +1,10 @@
+.acg-block {
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+.acg-block-content {
+    font-family: 'Arial, sans-serif';
+    font-size: 16px;
+}
