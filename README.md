@@ -65,11 +65,7 @@
 
 - **📚 Documentation**: Refer to the [Wiki](#) for detailed guides and FAQs.
 - **🐞 Issues**: Report bugs or request features via the [GitHub Issues](#) page.
-- **✉️ Contact**: Reach out to us at **support@example.com** for direct assistance.
-
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](#) for more information.
+- **✉️ Contact**: Reach out to me at **maciek_k112@wp.pl** for direct assistance.
 
 ## License
 
