@@ -15,7 +15,7 @@ function get_user_frequency() {
     return isset($settings['acg_schedule_frequency']) ? $settings['acg_schedule_frequency'] : 'daily';
 }
 
-// Function to convert frequency to seconds
+
 function frequency_to_seconds($frequency) {
     switch ($frequency) {
         case 'minutely': return 60;
